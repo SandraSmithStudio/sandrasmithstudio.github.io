@@ -148,7 +148,7 @@ MEDIA QUERIES
 
 /* LAPTOPS 1440 x 900 */
 @media screen and (min-width:1440px) {
-    .container {margin: 5rem 10rem 0rem 10rem;font-size: 4rem;}
+    .container {margin: 2rem 10rem 0rem 10rem;font-size: 4rem;}
     .avatar {width: 51.9375rem;height: 31.5rem;margin-left: -8rem;margin-right: -11rem;}
     .name {font-size: 7.5rem;}
     .info {font-size: 2.5rem;}
