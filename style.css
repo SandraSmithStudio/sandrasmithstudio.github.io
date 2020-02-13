@@ -107,7 +107,7 @@ background-color: #6CC4BB;
 ***********************************
 MEDIA QUERIES
 *********************************** */
-/* SMARTPPHONES */
+/* SMARTPHONES */
 
 @media screen and (min-width:320px) {
     .container {margin: 4rem 0rem 0rem -1.6rem;font-size: 1rem;}
