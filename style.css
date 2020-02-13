@@ -18,12 +18,14 @@ background-color: #6CC4BB;
 }
 
 .list-left {
+    position: relative;
     text-align: right;
     margin-top: 3.75rem;
     z-index: 1;
 }
 
 .list-right {
+    position: relative;
     margin-top: 9.375rem;
     z-index: 1;
 }
