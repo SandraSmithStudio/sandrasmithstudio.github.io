@@ -1,3 +1,3 @@
 layout: page
-title: Wordpress
+title: "Wordpress"
 permalink: https://sandrasmithstudio.github.io/wordpress
