@@ -1,3 +1,3 @@
 layout: page
 title: "Wordpress"
-permalink: /wordpress/
+permalink: https://sandrasmithstudio.github.io/wordpress
